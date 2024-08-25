@@ -1,5 +1,9 @@
 # 史小白 - 中国历史智能助手
 
+## 项目Logo
+
+<img src="./logo.png" alt="项目Logo" width="150"/>
+
 ## 项目简介
 
 **史小白**是一个智能历史助手，旨在帮助用户探索和学习中国历史。项目基于[InternIM](https://github.com/InternLM/Tutorial)大模型技术，提供了多种功能，包括：
@@ -20,10 +24,6 @@
 
 项目架构图如下所示：
 ![项目架构图](./技术路线图.png)
-
-### 项目Logo
-
-<img src="./logo.png" alt="项目Logo" width="150"/>
 
 ## 项目运行结果
 
