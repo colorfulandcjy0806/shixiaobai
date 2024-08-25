@@ -23,7 +23,7 @@
 
 ### 项目Logo
 
-![项目Logo](./logo.png)
+<img src="./logo.png" alt="项目Logo" width="150"/>
 
 ## 项目运行结果
 
