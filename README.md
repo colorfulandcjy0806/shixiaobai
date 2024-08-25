@@ -6,7 +6,7 @@
 
 ## 项目简介
 
-**史小白**是一个智能历史助手，旨在帮助用户探索和学习中国历史。项目基于[InternIM](https://github.com/InternLM/Tutorial)大模型技术，提供了多种功能，包括：
+**史小白**是一个智能历史助手，旨在帮助用户探索和学习中国历史。项目基于[InternLM](https://github.com/InternLM/Tutorial)大模型技术，提供了多种功能，包括：
 
 - **历史问答**：用户可以提出中国历史相关的问题，史小白将提供详细且准确的回答。
 - **文言文翻译**：能够将古代文献翻译成现代汉语，方便用户理解文言文。
@@ -75,7 +75,7 @@ ShiXiaobai-Intelligent-History-Assistant/
 
 ## 参考资料
 
-- [InternIM GitHub 仓库](https://github.com/InternLM/Tutorial)
+- [InternLM GitHub 仓库](https://github.com/InternLM/Tutorial)
 - [项目报名链接](https://aicarrier.feishu.cn/wiki/DjY6whCO0inTu2kQN9Cchxgynme)
 
 ## 贡献指南
