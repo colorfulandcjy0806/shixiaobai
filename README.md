@@ -80,6 +80,10 @@ ShiXiaobai-Intelligent-History-Assistant/
 └── requirements.txt           # 使用pip安装的依赖
 ```
 
+## 发布地址
+- [B站 【大模型项目】史小白——中国历史智能助手](https://www.bilibili.com/video/BV1ijW6eoE91/?share_source=copy_web)
+- [OpenXLab项目地址](https://openxlab.org.cn/models/detail/chenjunyang/ShiXiaobai_history)
+
 ## 参考资料
 
 - [InternLM GitHub 仓库](https://github.com/InternLM/Tutorial)
