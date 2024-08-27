@@ -32,4 +32,3 @@ tqdm==4.65.2
 traitlets==5.14.3
 transformers==4.41.1
 typing_extensions==4.12.2
-vllm==0.5.5
