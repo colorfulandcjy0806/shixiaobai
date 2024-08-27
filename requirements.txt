@@ -20,7 +20,6 @@ nltk==3.9.1
 packaging==24.1
 phx_class_registry==4.0.6
 Pillow==9.4.0
-Pillow==10.4.0
 Requests==2.32.3
 sentencepiece==0.2.0
 serpapi==0.1.5
